@@ -10,7 +10,7 @@ This project contains a Python-based web scraping and data transformation pipeli
 
 The primary goal of this project is to build a system that:
 
-- Scrapes issue data from specified Apache Jira projects.
+- Scrapes issue data from specified Apache Jira projects Currently Scraping from "SPARK,HADOOP,KAFKA"
 - Handles network and data edge cases gracefully.
 - Transforms the scraped data into a clean JSONL corpus suitable for LLM training.
 
