@@ -6,7 +6,12 @@ This project contains a Python-based web scraping and data transformation pipeli
 
 ![ezgif-7031770981a116](https://github.com/user-attachments/assets/41c44338-5676-4b64-97f3-f54feb4181bc)
 
-## Objective
+transformed data for LLM example
+
+<img width="1594" height="687" alt="Screenshot from 2025-11-02 10-46-55" src="https://github.com/user-attachments/assets/6b15be9d-2186-4b14-8f41-2c109cd8f86c" />
+
+## Objectivw
+
 
 The primary goal of this project is to build a system that:
 
@@ -73,7 +78,7 @@ To start the scraper, run the following command:
 ```bash
 python main.py
 ```
-after the process is complete which will take a while we will have to run the transform script to transform data for LLM
+after the process is completed which will take a while we will have to run the transform script to transform data for LLM
 ```bash
 python transform.py
 ```
