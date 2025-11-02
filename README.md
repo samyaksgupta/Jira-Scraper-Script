@@ -63,10 +63,19 @@ The main components are:
 
 ## How to Run
 
-To start the scraper, run the following command:
+first install all dependencies
 
 ```bash
+pip install -r requirements
+```
+
+To start the scraper, run the following command:
+```bash
 python main.py
+```
+after the process is complete which will take a while we will have to run the transform script to transform data for LLM
+```bash
+python transform.py
 ```
 
 The scraper will create a `data` directory, where it will store the scraped data in JSONL format (one file per project) and a `scraper_state.json` file to track its progress.
