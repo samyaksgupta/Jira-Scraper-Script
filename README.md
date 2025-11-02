@@ -32,6 +32,8 @@ The main components are:
 - **`.env`**: Configuration file for specifying Jira projects.
 - **`requirements.txt`**: A list of Python dependencies.
 - **`data/`**: The directory where scraped data and the state file are stored.
+- **`transform_data/`**: The directory where scraped data and the state file are stored.
+- Note: data and transform data will be created after running the main.py -> transform.py
 
 ## Setup and Installation
 
