@@ -2,6 +2,10 @@
 
 This project contains a Python-based web scraping and data transformation pipeline that extracts public issue data from Apache's Jira instance and converts it into a format suitable for training Large Language Models (LLMs).
 
+## DEMO
+
+![ezgif-7031770981a116](https://github.com/user-attachments/assets/41c44338-5676-4b64-97f3-f54feb4181bc)
+
 ## Objective
 
 The primary goal of this project is to build a system that:
