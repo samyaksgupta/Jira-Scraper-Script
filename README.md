@@ -10,7 +10,7 @@ transformed data for LLM example
 
 <img width="1594" height="687" alt="Screenshot from 2025-11-02 10-46-55" src="https://github.com/user-attachments/assets/6b15be9d-2186-4b14-8f41-2c109cd8f86c" />
 
-## Objectivw
+## Objective
 
 
 The primary goal of this project is to build a system that:
